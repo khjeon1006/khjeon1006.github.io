@@ -118,7 +118,7 @@ If you don't declare a sidebar, the `home_sidebar` file gets used as the default
     type: "pages"
   values:
     layout: "page"
-    comments: true
+    comments: false
     search: true
     sidebar: home_sidebar
     topnav: topnav
@@ -133,7 +133,7 @@ If you want to set different sidebar defaults based on different folders for you
     type: "pages"
   values:
     layout: "page"
-    comments: true
+    comments: false
     search: true
     sidebar: mydoc_sidebar
     topnav: topnav
@@ -162,7 +162,7 @@ Because most topnav options will be the same, the `_config.yml` file specifies t
     type: "pages"
   values:
     layout: "page"
-    comments: true
+    comments: false
     search: true
     sidebar: home_sidebar
     topnav: topnav
