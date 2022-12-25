@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+      external_url: https://github.com/khjeon1006
     - title: News
       url: /news
 
@@ -12,15 +12,15 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: Portfolio
       folderitems:
-        - title: Jekyll Talk
+        - title: pf01
           external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
+        - title: pf02
           external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
+        - title: pf03
           external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
+        - title: pf04
           external_url: http://idratherbewriting.com/category-jekyll/
     - title: Products
       folderitems:
