@@ -27,7 +27,7 @@ entries:
       url: /p1_landing_page.html
       output: web
 
-    - title: Sample 1
+    - title: 운영체제
       url: /p1_sample1.html
       output: web, pdf
 
